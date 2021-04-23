@@ -1,5 +1,4 @@
 import Grid from '@material-ui/core/Grid';
-// import { CallMissedSharp } from '@material-ui/icons';
 import Product from './Product/Product';
 import useStyles from './styles'
 
